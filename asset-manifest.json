@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/radio/static/css/main.d72fb127.chunk.css",
-    "main.js": "/github.io/radio/static/js/main.e823e3aa.chunk.js",
-    "main.js.map": "/github.io/radio/static/js/main.e823e3aa.chunk.js.map",
-    "runtime~main.js": "/github.io/radio/static/js/runtime~main.d7906e6c.js",
-    "runtime~main.js.map": "/github.io/radio/static/js/runtime~main.d7906e6c.js.map",
-    "static/js/2.c2695c00.chunk.js": "/github.io/radio/static/js/2.c2695c00.chunk.js",
-    "static/js/2.c2695c00.chunk.js.map": "/github.io/radio/static/js/2.c2695c00.chunk.js.map",
-    "index.html": "/github.io/radio/index.html",
-    "precache-manifest.dbf13b5277b12f6b888fae5eac484757.js": "/github.io/radio/precache-manifest.dbf13b5277b12f6b888fae5eac484757.js",
-    "service-worker.js": "/github.io/radio/service-worker.js",
-    "static/css/main.d72fb127.chunk.css.map": "/github.io/radio/static/css/main.d72fb127.chunk.css.map"
+    "main.css": "/radio/static/css/main.d72fb127.chunk.css",
+    "main.js": "/radio/static/js/main.a7879dc3.chunk.js",
+    "main.js.map": "/radio/static/js/main.a7879dc3.chunk.js.map",
+    "runtime~main.js": "/radio/static/js/runtime~main.acf36385.js",
+    "runtime~main.js.map": "/radio/static/js/runtime~main.acf36385.js.map",
+    "static/js/2.c2695c00.chunk.js": "/radio/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/radio/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/radio/index.html",
+    "precache-manifest.620de5ee9ed70b4fc9e422055eaffa10.js": "/radio/precache-manifest.620de5ee9ed70b4fc9e422055eaffa10.js",
+    "service-worker.js": "/radio/service-worker.js",
+    "static/css/main.d72fb127.chunk.css.map": "/radio/static/css/main.d72fb127.chunk.css.map"
   }
 }
