@@ -1,0 +1,18 @@
+.station-list-item {
+  cursor: pointer;
+  font-size: 24px;
+  transition: background-color 200ms ease-in-out;
+}
+
+.station-list-item:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.station-list-item-active {
+  font-weight: 600;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.station-list-item-active.station-list-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
